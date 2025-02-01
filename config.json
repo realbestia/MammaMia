@@ -79,10 +79,10 @@
        "HOST": "0.0.0.0",
        "PORT": "8088",
        "Name": "MammaMia",
-       "Icon": "ðŸ•ï¸",
+       "Icon": "🍕️",
        "Public_Instance": "1",
        "Remote_Instance": "1",
-       "Global_Proxy": "0"
+       "Global_Proxy": "1"
        }
   }
   
