@@ -40,10 +40,10 @@
           "DDLStream":{
               "domain":"co",
               "cookies" : {
-                  "ips4_device_key": null,
-                  "ips4_IPSSessionFront": null,
-                  "ips4_member_id": null,
-                  "ips4_login_key": null
+                  "ips4_device_key": "87a47cc96bcc42b94c23781f8a22823e",
+                  "ips4_IPSSessionFront": "a19eefc1d9dfaccf2e0b80fc75e85f56",
+                  "ips4_member_id": "4030158",
+                  "ips4_login_key": "e40f4a0755058e94977ab37a5f5da33e"
                   },
               "enabled":"1"
           },
@@ -83,7 +83,7 @@
    "General":{
        "load_env": "0",
        "HOST": "0.0.0.0",
-       "PORT": "8080",
+       "PORT": "8088",
        "Name": "MammaMia",
        "Icon": "🍕️",
        "Public_Instance": "0",
