@@ -6,17 +6,17 @@
                "SC_PROXY": "0",
                "VX_ForwardProxy": "0",
                "VX_PROXY": "0",
-               "enabled": "1"
+               "enabled": "0"
            },
            "Filmpertutti": {
                "domain": "motorcycles",
-               "enabled": "1"
+               "enabled": "0"
            },
            "Tantifilm":{
                "domain": "bond",
                "TF_ForwardProxy": "0",
                "TF_PROXY": "0",
-               "enabled": "1"
+               "enabled": "0"
            },
            "Mysterius":{
                "enabled": "0"    
@@ -27,7 +27,7 @@
           },
           "StreamingWatch":{
               "domain":"org",
-              "enabled":"1"
+              "enabled":"0"
           },
           "CB01":{
               "domain":"media",
@@ -35,7 +35,7 @@
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
-              "enabled":"1"
+              "enabled":"0"
           },
           "DDLStream":{
               "domain":"co",
@@ -45,39 +45,39 @@
                   "ips4_member_id": null,
                   "ips4_login_key": null
                   },
-              "enabled":"1"
+              "enabled":"0"
           },
           "Guardaserie":{
               "domain":"mom",
-              "enabled":"1",
+              "enabled":"0",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
           },
           "GuardaHD":{
               "domain":"stream",
-              "enabled":"1",
+              "enabled":"0",
               "GH_ForwardProxy":"0",
               "GH_PROXY":"0"
           },
           "Onlineserietv":{
               "domain":"com",
-              "enabled":"1",
+              "enabled":"0",
               "OST_ForwardProxy":"0",
               "OST_PROXY":"0"
           },
           "AnimeWorld":{
               "domain":"so",
-              "enabled":"1",
+              "enabled":"0",
               "AW_ForwardProxy":"0",
               "AW_PROXY":"0"
           },
           "SkyStreaming":{
               "domain":"store",
-              "enabled":"1"
+              "enabled":"0"
           },
           "DaddyLiveHD":{
               "domain":"to",
-              "enabled":"1"
+              "enabled":"0"
           }
    },
    "General":{
