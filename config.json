@@ -10,7 +10,7 @@
            },
            "Filmpertutti": {
                "domain": "motorcycles",
-               "enabled": "1"
+               "enabled": "0"
            },
            "Tantifilm":{
                "domain": "bond",
@@ -35,7 +35,7 @@
               "CB_ForwardProxy":"0",
               "MX_ForwardProxy":"0",
               "MX_PROXY":"0",
-              "enabled":"1"
+              "enabled":"0"
           },
           "DDLStream":{
               "domain":"co",
@@ -55,7 +55,7 @@
           },
           "GuardaHD":{
               "domain":"stream",
-              "enabled":"1",
+              "enabled":"0",
               "GH_ForwardProxy":"0",
               "GH_PROXY":"0"
           },
