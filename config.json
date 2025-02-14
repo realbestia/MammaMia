@@ -49,7 +49,7 @@
           },
           "Guardaserie":{
               "domain":"mom",
-              "enabled":"1",
+              "enabled":"0",
               "GS_ForwardProxy":"0",
               "GS_PROXY":"0"
           },
